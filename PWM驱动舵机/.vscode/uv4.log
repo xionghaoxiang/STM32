@@ -1,0 +1,12 @@
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'E:\software\Keil5\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling main.c...
+linking...
+.\Objects\project.axf: Error: L6218E: Undefined symbol ServoSetAngle (referred from main.o).
+.\Objects\project.axf: Error: L6218E: Undefined symbol Servo_Init (referred from main.o).
+Not enough information to list image symbols.
+Not enough information to list load addresses in the image map.
+Finished: 2 information, 0 warning and 2 error messages.
+".\Objects\project.axf" - 2 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:02
