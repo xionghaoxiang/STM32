@@ -17,7 +17,7 @@ int main()
 			}
 			if (keynum == 2)
 			{
-				LED_turn(GPIO_Pin_1);
+				LED_turn(GPIO_Pin_2);
 			}
 		}
   

@@ -1,5 +1,5 @@
 #include "stm32f10x.h"
-void Buzzer_Init(void)//初始化PA1，PA2作为输出
+void Buzzer_Init(void)
 {
     GPIO_InitTypeDef GPIO_InitStructure;
     // Enable the GPIOA clock
