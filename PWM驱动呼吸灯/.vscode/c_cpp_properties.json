@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWM驱动呼吸灯\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWM驱动呼吸灯\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWM驱动呼吸灯\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWM驱动呼吸灯\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWM驱动呼吸灯\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWM驱动呼吸灯\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWM驱动呼吸灯\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWM驱动呼吸灯\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWM驱动呼吸灯\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWM驱动呼吸灯\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

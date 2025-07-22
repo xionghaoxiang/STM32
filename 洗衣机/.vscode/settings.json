@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "apt.h": "c",
+        "oled.h": "c"
+    }
+}

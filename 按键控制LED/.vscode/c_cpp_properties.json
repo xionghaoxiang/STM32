@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\按键控制LED\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\按键控制LED\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\按键控制LED\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\按键控制LED\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\按键控制LED\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\按键控制LED\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\按键控制LED\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\按键控制LED\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\按键控制LED\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\按键控制LED\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

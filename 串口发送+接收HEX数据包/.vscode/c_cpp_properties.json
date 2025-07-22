@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\串口发送+接收HEX数据包\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\串口发送+接收HEX数据包\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\串口发送+接收HEX数据包\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\串口发送+接收HEX数据包\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\串口发送+接收HEX数据包\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\串口发送+接收HEX数据包\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\串口发送+接收HEX数据包\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\串口发送+接收HEX数据包\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\串口发送+接收HEX数据包\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\串口发送+接收HEX数据包\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

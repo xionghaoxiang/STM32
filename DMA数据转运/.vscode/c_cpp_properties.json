@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\DMA数据转运\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\DMA数据转运\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\DMA数据转运\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\DMA数据转运\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\DMA数据转运\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\DMA数据转运\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\DMA数据转运\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\DMA数据转运\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\DMA数据转运\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\DMA数据转运\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

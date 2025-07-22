@@ -31,15 +31,15 @@ void AD_Init(void)
     RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1,ENABLE);
     DMA_InitTypeDef DMA_InitStructure;
     DMA_InitStructure.DMA_BufferSize = 4;
-    DMA_InitStructure.DMA_DIR = DMA_DIR_PeripheralSRC;
-    DMA_InitStructure.DMA_M2M = DMA_M2M_Disable;
+    DMA_InitStructure.DMA_DIR = DMA_DIR_PeripheralSRC;// 数据源来自外设
+    DMA_InitStructure.DMA_M2M = DMA_M2M_Disable;// 禁止存储器到存储器模式，因为是从外设到存储器
     DMA_InitStructure.DMA_MemoryBaseAddr = (uint32_t)AD_Value;
     DMA_InitStructure.DMA_MemoryDataSize = DMA_MemoryDataSize_HalfWord;
     DMA_InitStructure.DMA_MemoryInc = DMA_MemoryInc_Enable;
-    DMA_InitStructure.DMA_Mode =  DMA_Mode_Circular;
+    DMA_InitStructure.DMA_Mode =  DMA_Mode_Circular;	// 循环传输模式
     DMA_InitStructure.DMA_PeripheralBaseAddr =  (uint32_t)&ADC1->DR;
     DMA_InitStructure.DMA_PeripheralDataSize = DMA_PeripheralDataSize_HalfWord;
-    DMA_InitStructure.DMA_PeripheralInc = DMA_PeripheralInc_Disable;
+    DMA_InitStructure.DMA_PeripheralInc = DMA_PeripheralInc_Disable;// 外设寄存器只有一个，地址不用递增
     DMA_InitStructure.DMA_Priority = DMA_Priority_Medium;
     DMA_Init(DMA1_Channel1,&DMA_InitStructure);
 
@@ -48,10 +48,12 @@ void AD_Init(void)
     ADC_DMACmd(ADC1,ENABLE);
     
     ADC_Cmd(ADC1,ENABLE);
+
     ADC_ResetCalibration(ADC1);
     while(ADC_GetResetCalibrationStatus(ADC1)==SET);
     ADC_StartCalibration(ADC1);
     while(ADC_GetCalibrationStatus(ADC1)==SET);
+
 		ADC_SoftwareStartConvCmd(ADC1,ENABLE);
     
 

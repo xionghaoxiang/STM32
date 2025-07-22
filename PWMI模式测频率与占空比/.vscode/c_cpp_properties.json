@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWMI模式测频率与占空比\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWMI模式测频率与占空比\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWMI模式测频率与占空比\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWMI模式测频率与占空比\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\PWMI模式测频率与占空比\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWMI模式测频率与占空比\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWMI模式测频率与占空比\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWMI模式测频率与占空比\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWMI模式测频率与占空比\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\PWMI模式测频率与占空比\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

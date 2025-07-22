@@ -3,10 +3,10 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\stm32_1\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\stm32_1\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\stm32_1\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\stm32_1\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\蜂鸣器\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\蜂鸣器\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\蜂鸣器\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\蜂鸣器\\System",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

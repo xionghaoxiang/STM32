@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\光敏控制蜂鸣器\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\光敏控制蜂鸣器\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\光敏控制蜂鸣器\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\光敏控制蜂鸣器\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\光敏控制蜂鸣器\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\光敏控制蜂鸣器\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\光敏控制蜂鸣器\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\光敏控制蜂鸣器\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\光敏控制蜂鸣器\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\光敏控制蜂鸣器\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

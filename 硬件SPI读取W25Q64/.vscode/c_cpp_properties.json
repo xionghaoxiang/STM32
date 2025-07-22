@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\硬件SPI读取W25Q64\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\硬件SPI读取W25Q64\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\硬件SPI读取W25Q64\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\硬件SPI读取W25Q64\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\硬件SPI读取W25Q64\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\硬件SPI读取W25Q64\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\硬件SPI读取W25Q64\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\硬件SPI读取W25Q64\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\硬件SPI读取W25Q64\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\硬件SPI读取W25Q64\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

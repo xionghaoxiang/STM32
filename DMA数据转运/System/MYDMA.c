@@ -7,12 +7,12 @@ void MyDMA_Init(uint32_t SourceAdd,uint32_t DestAdd,uint16_t size)
     RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1,ENABLE);
     DMA_InitTypeDef DMA_InitStructure;
     DMA_InitStructure.DMA_BufferSize = size;
-    DMA_InitStructure.DMA_DIR = DMA_DIR_PeripheralSRC;
+    DMA_InitStructure.DMA_DIR = DMA_DIR_PeripheralSRC; //搬运方向
     DMA_InitStructure.DMA_M2M = DMA_M2M_Enable;
     DMA_InitStructure.DMA_MemoryBaseAddr = DestAdd;
     DMA_InitStructure.DMA_MemoryDataSize = DMA_MemoryDataSize_Byte;
     DMA_InitStructure.DMA_MemoryInc = DMA_MemoryInc_Enable;
-    DMA_InitStructure.DMA_Mode =  DMA_Mode_Normal;
+    DMA_InitStructure.DMA_Mode =  DMA_Mode_Normal; //当一次DMA数据传输完后，停止DMA传送 ，也就是只传输一次
     DMA_InitStructure.DMA_PeripheralBaseAddr = SourceAdd;
     DMA_InitStructure.DMA_PeripheralDataSize = DMA_PeripheralDataSize_Byte;
     DMA_InitStructure.DMA_PeripheralInc = DMA_PeripheralInc_Enable;

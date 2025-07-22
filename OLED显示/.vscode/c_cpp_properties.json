@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\OLED显示\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\OLED显示\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\OLED显示\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\OLED显示\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\OLED显示\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\OLED显示\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\OLED显示\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\OLED显示\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\OLED显示\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\OLED显示\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

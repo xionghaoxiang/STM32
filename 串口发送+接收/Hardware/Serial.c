@@ -19,10 +19,10 @@ void Serial_Init(void)
 
     USART_InitTypeDef USART_InitStructure;
     USART_InitStructure.USART_BaudRate = 9600;
-    USART_InitStructure.USART_HardwareFlowControl = USART_HardwareFlowControl_None;
+    USART_InitStructure.USART_HardwareFlowControl = USART_HardwareFlowControl_None; //无硬件控制，软件控制
     USART_InitStructure.USART_Mode = USART_Mode_Tx | USART_Mode_Rx;
-    USART_InitStructure.USART_Parity = USART_Parity_No;
-    USART_InitStructure.USART_StopBits = USART_StopBits_1;
+    USART_InitStructure.USART_Parity = USART_Parity_No; //检验位，无校验
+    USART_InitStructure.USART_StopBits = USART_StopBits_1; //停止位
     USART_InitStructure.USART_WordLength = USART_WordLength_8b;
     USART_Init(USART1,&USART_InitStructure);
 

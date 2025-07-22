@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\定时器外部时钟\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\定时器外部时钟\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\定时器外部时钟\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\定时器外部时钟\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\定时器外部时钟\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\定时器外部时钟\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\定时器外部时钟\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\定时器外部时钟\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\定时器外部时钟\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\定时器外部时钟\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],

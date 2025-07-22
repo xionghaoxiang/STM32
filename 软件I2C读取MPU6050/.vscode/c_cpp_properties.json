@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\软件I2C读取MPU6050\\Start",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\软件I2C读取MPU6050\\User",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\软件I2C读取MPU6050\\Library",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\软件I2C读取MPU6050\\System",
-                "e:\\study\\computer_practice\\keil projiect\\stm32\\软件I2C读取MPU6050\\Hardware",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\软件I2C读取MPU6050\\Start",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\软件I2C读取MPU6050\\User",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\软件I2C读取MPU6050\\Library",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\软件I2C读取MPU6050\\System",
+                "e:\\study\\computer_practice\\keil_projiect\\stm32\\软件I2C读取MPU6050\\Hardware",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\software\\Keil5\\ARM\\ARMCC\\include\\rw"
             ],
